@@ -14,7 +14,7 @@ My research focuses on game theory, operations research, machine learning and ma
 I will study for the mphil in economics research program at the University of Cambridge in the autumn of 2024.
 
 Contact Information
-======
+------
 My email: xinze_xu@163.com
 
 
