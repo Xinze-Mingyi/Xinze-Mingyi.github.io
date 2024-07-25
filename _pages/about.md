@@ -11,7 +11,7 @@ I am Xinze, a forth year undergraduate student from the University of Internatio
 
 My research focuses on game theory, operations research, machine learning and mathematical economics.
 
-I will study for the mphil in economics research program at the University of Cambridge in the autumn of 2024.
+I will study for the mphil in economics research program at the University of Cambridge in the fall of 2024.
 
 Contact Information
 ------
