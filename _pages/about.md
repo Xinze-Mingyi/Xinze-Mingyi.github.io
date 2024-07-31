@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+    
 ---
 
 I am Xinze, a forth year undergraduate student from the University of International Business and Economics, majoring in Economics. 
